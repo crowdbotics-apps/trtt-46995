@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-google-appointment](backend/modules)
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-contact-us](modules/contact-us)
+- [react-native-firebase-crashlytics](modules/firebase-crashlytics)
 
 # Getting started: Frontend
 
