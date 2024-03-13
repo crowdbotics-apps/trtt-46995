@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-contact-us](modules/contact-us)
 - [react-native-firebase-crashlytics](modules/firebase-crashlytics)
 - [react-native-photo-editing](modules/photo-editing)
+- [react-native-live-camera-filters](modules/live-camera-filters)
 
 # Getting started: Frontend
 
