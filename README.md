@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-appointment](modules/appointment)
 - [django-google-appointment](backend/modules)
+- [react-native-appointment-local](modules/appointment-local)
 
 # Getting started: Frontend
 
